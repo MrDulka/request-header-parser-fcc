@@ -1,0 +1,24 @@
+{
+  "name": "request-header-parser-fcc",
+  "version": "1.0.0",
+  "description": "Request Header Parser Microservice Freecodecamp exercise",
+  "main": "index.js",
+  "private": true,
+  "scripts": {
+    "start": "node index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/MrDulka/request-header-parser-fcc.git"
+  },
+  "author": "Tomas Dulka",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/MrDulka/request-header-parser-fcc/issues"
+  },
+  "homepage": "https://github.com/MrDulka/request-header-parser-fcc#readme",
+  "dependencies": {
+    "express": "^4.15.4"
+  }
+}
